@@ -1,5 +1,5 @@
 - I’m interested in Math, Physics and Engineering
-- I’m currently undertaking a Bachelor of Mechanical Engineering
+- I’m currently undertaking a Bachelor of Mechanical Engineering and Mathematics
 
 
 <!---
